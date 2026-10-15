@@ -1,0 +1,8 @@
+vectorizer_cache.pkl
+tfidf_cache.pkl
+university_data.db
+__pycache__/
+*.pyc
+.DS_Store
+.vs/
+console_bot.py

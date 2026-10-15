@@ -1,0 +1,178 @@
+tusur_info:
+  url: "https://tusur.ru/ru/o-tusure"
+  fallback_urls:
+    - "https://tusur.ru/ru/o-tusure/struktura-i-organy-upravleniya"
+    - "https://tusur.ru/ru/o-tusure/struktura-i-organy-upravleniya/rektorat"
+    - "https://tusur.ru/ru/o-tusure/kontakty-i-rekvizity"
+    - "https://tusur.ru/ru/o-tusure/telefonnyy-spravochnik"
+    - "https://tusur.ru/ru/o-tusure/partnyory"
+    - "https://tusur.ru"
+
+postuplenie:
+  url: "https://tusur.ru/ru/abitur"
+  fallback_urls:
+    - "https://priem.tusur.ru"
+    - "https://abiturient.tusur.ru"
+    - "https://tusur.ru/ru/abitur"
+    - "https://tusur.ru/ru/studentam/tselevoe-obuchenie"
+
+ucheba:
+  url: "https://tusur.ru/ru/studentam"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/pravila-obucheniya"
+    - "https://tusur.ru/ru/studentam/oplata-obucheniya-i-platnye-uslugi"
+    - "https://tusur.ru/ru/studentam/kuratory"
+    - "https://tusur.ru/ru/studentam/spravka-s-mesta-ucheby"
+    - "https://tusur.ru/ru/studentam/gosudarstvennaya-itogovaya-attestatsiya-gia"
+    - "https://tusur.ru/ru/studentam/internet-ekzameny-dlya-studentov-1-i-4-kursa"
+    - "https://tusur.ru/ru/studentam/fakultativy-i-elektivy"
+    - "https://tusur.ru/ru/studentam/uchebnye-i-drugie-korpusa"
+    - "https://tusur.ru/ru/studentam/distantsionnoe-obuchenie"
+    - "https://freshman.tusur.ru"
+    - "https://timetable.tusur.ru"
+    - "https://edu.tusur.ru"
+    - "https://attendance.tusur.ru"
+    - "https://online.tusur.ru"
+    - "https://directory.tusur.ru"
+    - "https://profile.tusur.ru"
+    - "https://profile.tusur.ru/question"
+    - "https://profile.tusur.ru/portfolio"
+    - "https://cloud.tusur.ru"
+
+gpo:
+  url: "https://tusur.ru/ru/studentam/gruppovoe-proektnoe-obuchenie"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam"
+
+praktika:
+  url: "https://tusur.ru/ru/studentam/praktiki"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/praktika"
+
+dopolnitelnoe_obrazovanie:
+  url: "https://tusur.ru/ru/education/dopolnitelnoe-obrazovanie"
+  fallback_urls:
+    - "https://tusur-courses.ru"
+    - "https://tusur.ru/ru/education"
+
+fakultety:
+  url: "https://tusur.ru/ru/o-tusure/struktura-i-organy-upravleniya"
+  fallback_urls:
+    - "https://tusur.ru/ru/education"
+
+nauka:
+  url: "https://tusur.ru/ru/nauka-i-innovatsii"
+  fallback_urls:
+    - "https://tusur.ru/ru/nauka-i-innovatsii/konferentsii"
+    - "https://tusur.ru/ru/studentam/nauchnaya-rabota"
+    - "https://tusur.ru/ru/nauka-i-innovatsii/studencheskoe-nauchnoe-soobschestvo-sistema"
+    - "https://tusur.ru/ru/studentam/issledovaniya-i-biznes"
+    - "https://tusur.ru/ru/studentam/konkursy-i-konferentsii"
+
+finansy:
+  url: "https://tusur.ru/ru/studentam/stipendii-i-materialnaya-pomosch"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/stipendii"
+    - "https://tusur.ru/ru/studentam/oplata-obucheniya-i-platnye-uslugi"
+
+obshchaga:
+  url: "https://tusur.ru/ru/studentam/obshchezhitiya"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/zhizn-v-obschezhitii"
+
+lgoty:
+  url: "https://tusur.ru/ru/studentam/stipendii-i-materialnaya-pomosch"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/stipendii"
+
+trudoustroystvo:
+  url: "https://tusur.ru/ru/studentam/trudoustroystvo"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/vypusknikam"
+    - "https://vk.com/centercareer_tusur"
+
+mezhdunarodnoe:
+  url: "https://tusur.ru/ru/sotrudnichestvo/mezhdunarodnaya-deyatelnost"
+  fallback_urls:
+    - "https://tusur.ru/ru/sotrudnichestvo"
+    - "https://tusur.ru/ru/sotrudnichestvo/obrazovatelnoe-sotrudnichestvo#traineeship"
+
+studencheskaya_zhizn:
+  url: "https://tusur.ru/ru/studentam/obschestvennaya-zhizn"
+  fallback_urls:
+    - "https://tusur.ru/ru/novosti-i-meropriyatiya"
+    - "https://tusur.ru/ru/novosti-i-meropriyatiya/novosti"
+    - "https://tusur.ru/ru/studentam/ob-edinennyy-sovet-obuchayuschihsya-tusura"
+
+sport:
+  url: "https://tusur.ru/ru/studentam/sport"
+  fallback_urls:
+    - "https://sport.tusur.ru"
+
+studotryady:
+  url: "https://tusur.ru/ru/studentam/studotryady"
+  fallback_urls:
+    - "https://xn--d1amqcgedd.xn--p1ai"
+    - "https://xn--d1amqcgedd.xn--p1ai/o_rossiyskikh_studencheskikh_otryadakh"
+    - "https://xn--d1amqcgedd.xn--p1ai/deyatelnost/meropriyatiya"
+    - "https://xn--d1amqcgedd.xn--p1ai/deyatelnost/sotsialnye_proekty"
+    - "https://xn--d1amqcgedd.xn--p1ai/dokumenty"
+    - "https://xn--d1amqcgedd.xn--p1ai/novosti"
+    - "https://xn--d1amqcgedd.xn--p1ai/press_sluzhba/kontakt"
+    - "https://xn--d1amqcgedd.xn--p1ai/bud_s_nami/khochu_v_studencheskiy_otryad"
+    - "https://xn--d1amqcgedd.xn--p1ai/kontakty/map/sfo/tomskaya-oblast"
+    - "https://xn--d1amqcgedd.xn--p1ai/profobuchenie_studencheskikh_otryadov"
+
+profkom:
+  url: "https://tusur.ru/ru/studentam/profkom"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/pervichnaya-profsoyuznaya-organizatsiya-studentov-tusur"
+
+volonterstvo:
+  url: "https://tusur.ru/ru/studentam/kluby-po-interesam-i-volonterstvo"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/obschestvennaya-zhizn"
+
+medpunkt:
+  url: "https://tusur.ru/ru/studentam"
+  fallback_urls: []
+
+psiholog:
+  url: "https://tusur.ru/ru/studentam"
+  fallback_urls: []
+
+akademicheskiy_otpusk:
+  url: "https://tusur.ru/ru/studentam/pravila-obucheniya"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam"
+
+psiholog:
+  url: "https://tusur.ru/ru/studentam"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam"
+
+olimpiady:
+  url: "https://tusur.ru/ru/obrazovanie/olimpiady"
+  fallback_urls:
+    - "https://rsr-olymp.ru"
+
+akademicheskiy_otpusk:
+  url: "https://tusur.ru/ru/studentam"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/pravila-obucheniya"
+
+biblioteka:
+  url: "https://lib.tusur.ru"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam"
+
+postgraduate:
+  url: "https://postgraduate.tusur.ru"
+  fallback_urls:
+    - "https://tusur.ru/ru/education/aspirantura"
+
+vypuskniki:
+  url: "https://avt.tusur.ru"
+  fallback_urls:
+    - "https://tusur.ru/ru/studentam/vypusknikam"
+    - "https://vk.com/centercareer_tusur"
